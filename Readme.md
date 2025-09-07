@@ -1,0 +1,1 @@
+# Coisas da lista de exercícios de banco de dados
