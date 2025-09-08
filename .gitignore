@@ -1,0 +1,20 @@
+# Arquivos de cache e temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pasta do ambiente virtual (venv)
+venv/
+
+# Ignorar o arquivo de configuração do VS Code
+.vscode/
+
+# Ignorar arquivos de dados gerados
+*.db
+*.sqlite
+
+# Sistema operacional e arquivos de IDE
+.DS_Store
+.idea/
+.env
